@@ -1,0 +1,13 @@
+{
+  "name": "diagreader",
+  "version": "0.0.1",
+  "dependencies": {
+    "adm-zip": "~0.4.3",
+    "node-zip": "~1.0.1",
+    "unzip": "~0.1.9",
+    "concat-stream": "~1.2.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.4"
+  }
+}
